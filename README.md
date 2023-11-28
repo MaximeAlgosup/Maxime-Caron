@@ -6,8 +6,10 @@
 - 🔭 I’m currently working on my [**moonshot project**](https://github.com/MaximeAlgosup/Moonshot-Project)
 - 📫 How to reach me **maxime.caron@algosup.com**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAlgosup&show_icons=true&locale=en&layout=donut" alt="Maxime's most used langages" /> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAlgosup&show_icons=true&locale=en&layout=donut" alt="Maxime's most used langages" align="left" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximeAlgosup&show_icons=true&theme=radical)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaximeAlgosup&theme=dark" alt="GitHub Streak" /></a>
+<br>
+
+<a href="https://git.io/streak-stats" align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaximeAlgosup&theme=dark" alt="GitHub Streak" /></a>
