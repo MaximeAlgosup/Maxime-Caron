@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
 
 - 🔭 I’m currently working on my [**moonshot project**](https://github.com/MaximeAlgosup/Moonshot-Project)
+- 🔭 I’m current school project is [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
 - 📫 How to reach me **maxime.caron@algosup.com**
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAlgosup&show_icons=true&locale=en&layout=donut" alt="Maxime's most used langages" align="left" /></p>
