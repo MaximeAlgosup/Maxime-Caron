@@ -7,7 +7,7 @@
 - 📫 How to reach me **maxime.caron@algosup.com**
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAlgosup&show_icons=true&locale=en&layout=donut" alt="Maxime's most used langages" align="left" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=MaximeAlgosup&show_icons=true&theme=radical" alt="Maxime's contributions" align="center" /></p>
+<p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=MaximeAlgosup&show_icons=true&theme=radical" alt="Maxime's contributions" align="center" /></p>
 <br/>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=MaximeAlgosup&theme=dark" alt="GitHub Streak" /></p>
 
