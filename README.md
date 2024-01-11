@@ -10,6 +10,7 @@
 
 **Old Projects:**
 - [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
+- [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAlgosup&show_icons=true&locale=en&layout=donut" alt="Maxime's most used langages" align="left" /></p>
 <p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=MaximeAlgosup&show_icons=true&theme=radical" alt="Maxime's contributions" align="center" /></p>
