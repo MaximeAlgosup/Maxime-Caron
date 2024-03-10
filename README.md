@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
 
 - 🔭 I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/Moonshot-Project)
-- 🔭 I’m current school project is [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)
+- 🔭 I’m current school project is [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)
 - 📫 How to reach me **maxime.caron@algosup.com**
-<br>  
+<br>
 
 **Old Projects:**
+- [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)
 - [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
 - [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)
 
