@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
 
-- 🔭 I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/Moonshot-Project)
-- 🔭 I’m current school project is [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)
+- 🔭 I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/Coding-Dojo.git)
+- 🔭 My current school project is [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)
 - 📫 How to reach me **maxime.caron@algosup.com**
 <br>
 
