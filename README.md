@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
 
 - 🔭 I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/CASC-V2.git)
+- 🔭 My current school project is [**Flutter project**](https://github.com/algosup/2023-2024-project-5-flutter-team-3)
 - 📫 How to reach me **maxime.caron@algosup.com**
 <br>
 
