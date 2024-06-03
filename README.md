@@ -8,7 +8,7 @@
 - 📫 How to reach me **maxime.caron@algosup.com**
 <br>
 
-**Old Projects:**
+**My previous school Projects:**
 - [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)
 - [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)
 - [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
