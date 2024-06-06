@@ -3,16 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
 
-- 🔭 I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/CASC-V2.git)
-- 🔭 My current school project is [**Flutter project**](https://github.com/algosup/2023-2024-project-5-flutter-team-3)
+- <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/7166/7166783.png" alt="Helmet icons">  I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/CASC-V2.git)
+- <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/2504/2504943.png" alt="Tinder logo"> My current school project is [**Flutter project**](https://github.com/algosup/2023-2024-project-5-flutter-team-3)
 - 📫 How to reach me **maxime.caron@algosup.com**
 <br>
 
 **My previous school Projects:**
-- [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)
-- [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)
-- [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
-- [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)
+-  [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/1624/1624733.png" alt="Bycicle icons"> 
+- [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/901/901042.png" alt="Processor icons"> 
+- [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)  <img width=16px height=16px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pacman.svg/1200px-Pacman.svg.png" alt="PacMan icons"> 
+- [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/3367/3367241.png" alt="Rubik icons"> 
+
+
+
 <hr/>
 
 <br/>
