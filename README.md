@@ -13,9 +13,17 @@
 - [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)
 - [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)
 - [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)
+<hr/>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAlgosup&show_icons=true&locale=en&layout=donut" alt="Maxime's most used langages" align="left" /></p>
-<p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=MaximeAlgosup&show_icons=true&theme=radical" alt="Maxime's contributions" align="center" /></p>
 <br/>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=MaximeAlgosup&theme=dark" alt="GitHub Streak" /></p>
+<div align="center" style="margin-bottom:50px">
+  <img width=78% src="https://github-readme-stats.vercel.app/api?username=MaximeAlgosup&show_icons=true&theme=dark" alt="Maxime's contributions" align="center" />
+</div>
+<div align="center" style="margin-bottom:200px">
+  <img width=47% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MaximeAlgosup&theme=dark" alt="GitHub Streak" />
+  <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAlgosup&show_icons=true&locale=en&layout=donut&theme=dark" alt="Maxime's most used langages/">
+</div>
+<div align="center">
+    <img width= 78% src="https://github-readme-activity-graph.vercel.app/graph?username=MaximeAlgosup&theme=dark" alt="Contributions graph">
+ </div>
 
