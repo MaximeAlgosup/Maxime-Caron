@@ -2,7 +2,8 @@
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
-- <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/7166/7166783.png" alt="Helmet icons">  I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/CASC-V2.git) </br>
+
+- <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/7166/7166783.png" alt="Helmet icons"> I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/CASC-V2.git) </br>
 - 📫 How to reach me **maximcaron@live.fr**
 <br>
 
