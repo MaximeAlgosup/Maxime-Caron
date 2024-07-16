@@ -2,6 +2,8 @@
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
+<a align="right" href="https://wakatime.com/@10b3cfa0-d88d-4f44-b0a7-4fa4d5aecd06"><img src="https://wakatime.com/badge/user/10b3cfa0-d88d-4f44-b0a7-4fa4d5aecd06.svg" alt="Total time coded since Sep 27 2023" /></a>
+<br><br>
 
 - <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/7166/7166783.png" alt="Helmet icons"> I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/CASC-V2.git) </br>
 - 📫 How to reach me **maximcaron@live.fr**
