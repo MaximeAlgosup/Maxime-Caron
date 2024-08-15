@@ -1,4 +1,4 @@
-<h2 align="center"> Hello World, I'm Maxime Caron !</h2> 
+<h2 align="center"> Hello World, I'm Maxime Caron! And I don't work for Crédit Agricole</h2> 
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximeAlgosup&color=blueviolet&style=plastic" alt="Maxime's views on profile" /> </p>
