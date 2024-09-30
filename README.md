@@ -9,7 +9,12 @@
 - 📫 How to reach me **maximcaron@live.fr**
 <br>
 
-**My previous school Projects:**
+**My various school projects:**
+
+**2024 / 2025**
+- [**Frogger FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-6)  <img width=18px height=18px src="https://cdn-icons-png.flaticon.com/128/2789/2789912.png" alt="Frog logo">
+
+**2023 / 2024**
 - [**Flutter project**](https://github.com/algosup/2023-2024-project-5-flutter-team-3)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/2504/2504943.png" alt="Tinder logo">
 - [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/1624/1624733.png" alt="Bycicle icons"> 
 - [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/901/901042.png" alt="Processor icons"> 
