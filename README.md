@@ -6,6 +6,7 @@
 <br><br>
 
 - <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/7166/7166783.png" alt="Helmet icons"> I’m currently working on my [**Moonshot project**](https://github.com/MaximeAlgosup/CASC-V2.git) </br>
+(Private for now but you can contact me to participate in the early access version)
 - 📫 How to reach me **maximcaron@live.fr**
 <br>
 
