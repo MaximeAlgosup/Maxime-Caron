@@ -13,6 +13,7 @@
 **My various school projects:**
 
 **2024 / 2025**
+- [**Carbon Control**](https://github.com/algosup/2024-2025-project-2-serious-game-team-5.git) <img width=18px height=18px src="https://cdn-icons-png.flaticon.com/128/392/392071.png" alt="Leaf picture">
 - [**Frogger FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-6)  <img width=18px height=18px src="https://cdn-icons-png.flaticon.com/128/2789/2789912.png" alt="Frog logo">
 
 **2023 / 2024**
@@ -20,7 +21,7 @@
 - [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-4.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/1624/1624733.png" alt="Bycicle icons"> 
 - [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/901/901042.png" alt="Processor icons"> 
 - [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-4)  <img width=16px height=16px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pacman.svg/1200px-Pacman.svg.png" alt="PacMan icons"> 
-- [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)  <img width=16px height=16px src="https://cdn-icons-png.flaticon.com/128/3367/3367241.png" alt="Rubik icons"> 
+- [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)  <img width=16px height=16px src="https://www.flaticon.com/free-icon/leaf_392071?term=leaf&related_id=392071" alt="Rubik icons"> 
 
 
 
